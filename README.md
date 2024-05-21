@@ -37,8 +37,9 @@ function basicOp(operation, value1, value2){
 ```
 
 2- Multiply - kata 8 - codewars.
+
   Description:
-  - just multiply two numbers.
+  -just multiply two numbers.
 
 ```javascript
 function multiply(a, b){
