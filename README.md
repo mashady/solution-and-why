@@ -14,7 +14,6 @@ Each snippets consist of three parts (name, level and source)
 
   Description:
   -Your task is to create a function that does four basic mathematical operations.
-
   The function should take three arguments - operation(string/char), value1(number), value2(number).
   The function should return result of numbers after applying the chosen operation.
 
@@ -37,12 +36,12 @@ function basicOp(operation, value1, value2){
 }
 ```
 
-2- problem name - level n2 - example.com
+2- Multiply - kata 8 - codewars.
+  Description:
+  - just multiply two numbers.
 
 ```javascript
-import Component from "my-project";
-
-function App() {
-  return <Component />;
+function multiply(a, b){
+  return a * b
 }
 ```
