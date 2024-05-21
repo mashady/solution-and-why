@@ -10,7 +10,8 @@ Each snippets consist of three parts (name, level and source)
 
 ## Enjoy 💜
 
-1- Basic Mathematical Operations - kata 8 - codewars
+1- Basic Mathematical Operations - kata 8 - codewars.
+
   Description:
   -Your task is to create a function that does four basic mathematical operations.
 
